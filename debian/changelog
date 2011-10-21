@@ -1,10 +1,16 @@
-apt-conf-siduction (0.3.0); urgency=low
+apt-conf-siduction (0.3.0+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * fix changelog 
+  * fix Maintainer 
+
+ -- Alf Gaida <info@g-com.eu>  Fri, 21 Oct 2011 11:31:40 +0200
+
+apt-conf-siduction (0.3.0) unstable; urgency=low
 
   * adapted for siduction
 
- -- Ferdinand Thommes <devil@siduction.org>
-
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Apr 2011 02:59:53 +0200
+ -- Ferdinand Thommes <devil@siduction.org>  Thu, 20 Oct 2011 02:59:53 +0200
 
 apt-conf-aptosid (0.2.2) unstable; urgency=low
 

@@ -1,7 +1,8 @@
 Source: apt-conf-siduction
 Section: admin
 Priority: extra
-Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Maintainer: Ferdinand Thommes <devil@siduction.org>
+XSBC-Original-Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
 Vcs-Svn: 
