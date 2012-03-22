@@ -1,3 +1,6 @@
-debian/apt-conf-siduction*
 debian/files
+debian/apt-conf-siduction.debhelper.log
+debian/apt-conf-siduction.substvars
+debian/apt-conf-siduction/
+
 
