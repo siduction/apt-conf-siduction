@@ -8,6 +8,7 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 Vcs-Git: git://git.siduction.org/packages/siduction-packages/apt-conf-siduction.git 
 Vcs-Browser: http://git.siduction.org/?p=packages/siduction-repository/apt-conf-siduction.git
+Homepage: http://svn.berlios.de/wsvn/fullstory/apt-conf-aptosid/
 
 Package: apt-conf-siduction
 Architecture: all
