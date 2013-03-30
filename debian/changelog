@@ -1,3 +1,14 @@
+apt-conf-siduction (0.3.5) unstable; urgency=low
+
+  * remove XBSC-Original-Maintainer
+  * Standards: 3.9.4 
+  * remove Homepage 
+  * Format for debian/copyrights
+  * removoed source.lintian-overrides
+  * refs #1103  
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 30 Mar 2013 15:08:21 +0100
+
 apt-conf-siduction (0.3.4) unstable; urgency=low
 
   * new postinst, that remove the leaked siduction-release.list 

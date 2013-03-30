@@ -1,15 +1,15 @@
-Format: http://dep.debian.net/deps/dep5                                                                                                                           
-Upstream-Name: apt-conf-aptosid                                                                                                                                          
-Source: <http://svn.berlios.de/svnroot/repos/fullstory/apt-conf-aptosid/trunk/>
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/                                                                                                                           
+Upstream-Name: apt-conf-siduction                                                                                                                  
+Source: git://git.siduction.org/code/apt-conf-siduction
 
 Files:*
-Copyright: 2011-2012 Alf Gaida <agaida@siduction.org>
+Copyright: 2011-2013 Alf Gaida <agaida@siduction.org>
            2011-2012 Ferdinand Thommes <devil@siduction.org>
            2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: BSD-3-Clause 
 
 Files: debian/*
-Copyright: 2011-2012 Alf Gaida <agaida@siduction.org>
+Copyright: 2011-2013 Alf Gaida <agaida@siduction.org>
            2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de> 
 License: BSD-3-Clause
 
