@@ -5,12 +5,10 @@ Source: git://git.siduction.org/code/apt-conf-siduction
 Files:*
 Copyright: 2011-2013 Alf Gaida <agaida@siduction.org>
            2011-2012 Ferdinand Thommes <devil@siduction.org>
-           2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: BSD-3-Clause 
 
 Files: debian/*
 Copyright: 2011-2013 Alf Gaida <agaida@siduction.org>
-           2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de> 
 License: BSD-3-Clause
 
 License: BSD-3-Clause                                                                                                                                             

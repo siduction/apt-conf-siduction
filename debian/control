@@ -1,10 +1,9 @@
 Source: apt-conf-siduction
 Section: admin
 Priority: extra
-Maintainer: Ferdinand Thommes <devil@siduction.org>
-Uploaders: Alf Gaida <agaida@siduction.org>
+Maintainer: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.8
 Vcs-Git: git://git.siduction.org/packages/siduction-packages/apt-conf-siduction.git 
 Vcs-Browser: http://git.siduction.org/?p=packages/siduction-repository/apt-conf-siduction.git
 
@@ -13,7 +12,6 @@ Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends}
 Description: siduction defaults for apt
- apt 0.7 basically transforms apt into aptitude, revert to traditional apt
- behaviour as far as that is possible by disabling, among others, the
- automatic installation of recommends (and suggests), as well as disabling
- and hiding the autoremove functionality.
+ Some simple apt settings:
+ - don't install recommends
+ - don't autoremove packages
