@@ -9,9 +9,9 @@ Vcs-Browser: http://git.siduction.org/?p=packages/siduction-repository/apt-conf-
 
 Package: apt-conf-siduction
 Architecture: all
-Depends: ${shlibs:Depends},
- ${misc:Depends}
+Depends: ${misc:Depends}
 Description: siduction defaults for apt
  Some simple apt settings:
  - don't install recommends
  - don't autoremove packages
+ - hide autoremove messages
