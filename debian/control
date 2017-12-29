@@ -2,8 +2,8 @@ Source: apt-conf-siduction
 Section: admin
 Priority: extra
 Maintainer: Alf Gaida <agaida@siduction.org>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.2
 Vcs-Git: git://git.siduction.org/packages/siduction-packages/apt-conf-siduction.git 
 Vcs-Browser: http://git.siduction.org/?p=packages/siduction-repository/apt-conf-siduction.git
 
@@ -12,6 +12,6 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: siduction defaults for apt
  Some simple apt settings:
- - don't install recommends
- - don't autoremove packages
- - hide autoremove messages
+ - install recommends
+ - autoremove packages
+ - don't hide  autoremove messages
