@@ -1,6 +1,6 @@
 // apt defaults for siduction
 
-APT::Get::AutomaticRemove "1";
+APT::Get::AutomaticRemove "0";
 APT::Get::HideAutoRemove "0";
 
 APT::Install-Recommends "1";
